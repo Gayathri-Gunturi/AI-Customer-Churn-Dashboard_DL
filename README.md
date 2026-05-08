@@ -1,7 +1,9 @@
 📌 Project Title
 
 AI-Powered Customer Churn Prediction Web App
+
 Deployment Link: https://ai-customer-churn-dashboarddl-pkvjeob2foswcz8t4tdp2m.streamlit.app/
+
 🧠 Description
 
 This project is a machine learning-based web application that predicts whether a bank customer is likely to churn (leave the service) based on their demographic and account information. The model is trained using a neural network built with TensorFlow and deployed using Streamlit for an interactive user experience.
