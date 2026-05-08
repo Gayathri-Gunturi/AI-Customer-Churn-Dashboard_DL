@@ -1,8 +1,5 @@
-tensorFlow
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
-tensorboard
 streamlit
+tensorflow
+numpy
+pandas
+scikit-learn
