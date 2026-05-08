@@ -11,18 +11,21 @@ This project is a machine learning-based web application that predicts whether a
 The app takes user inputs such as credit score, geography, age, balance, tenure, and activity status, processes them using trained encoders and a scaler, and then outputs the probability of churn in real-time.
 
 🚀 Features
+
 Interactive web interface built with Streamlit
 Real-time churn prediction using a trained deep learning model
 Data preprocessing using OneHotEncoder and LabelEncoder
 Feature scaling for improved model accuracy
 Clean and responsive UI with modern design
 Probability-based prediction output with risk classification
+
 🛠️ Tech Stack
 Python
 TensorFlow / Keras
 Scikit-learn
 Pandas, NumPy
 Streamlit
+
 📊 Input Features
 Credit Score
 Geography
@@ -34,16 +37,20 @@ Credit Card Status
 Active Membership
 Estimated Salary
 Tenure
+
 🎯 Output
 Churn Probability Score
 Classification:
 Customer likely to churn
 Customer likely to stay
+
 💡 Objective
 
 The goal of this project is to help businesses identify at-risk customers early and take proactive measures to improve customer retention using machine learning.
 
+
 📌 Future Improvements
+
 Add explainable AI (why prediction was made)
 Improve UI with advanced dashboard visuals
 Deploy on cloud with CI/CD pipeline
