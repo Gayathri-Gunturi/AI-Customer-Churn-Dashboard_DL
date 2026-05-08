@@ -10,6 +10,17 @@ This project is a machine learning-based web application that predicts whether a
 
 The app takes user inputs such as credit score, geography, age, balance, tenure, and activity status, processes them using trained encoders and a scaler, and then outputs the probability of churn in real-time.
 
+Features in Model Used-
+
+Activation Function for hidden layers - 'relu'
+
+Activation Function for Output layer - 'sigmoid'
+
+Optimizer - 'Adam' with learning rate 0.01
+
+Loss function - 'Binary Cross-entropy'
+
+
 🚀 Features
 
 Interactive web interface built with Streamlit
